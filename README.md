@@ -13,6 +13,9 @@ Este repositório contém os arquivos utilizados no desenvolvimento da tese de m
 │       ├── ...
 ├── estatisticas/
 │   └── estatisticas\_reais\_com\_ar.xlsx
+├── resultados_mecanicos/
+│   └── resultados\_mecanicos\_dados\_reais.xlsx
+│   └── resultados\_mecanicos\_sinteticos.xlsx
 ├── scripts/
 │   ├── extrair\_estatisticas.py
 │   ├── gerar\_dados\_sinteticos.py
