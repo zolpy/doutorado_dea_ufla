@@ -6,25 +6,25 @@ Este repositório contém os arquivos utilizados no desenvolvimento da tese de m
 ```bash
 ├── dados/
 │   ├── reais/
-│   │   ├── medio\_15Hz\_1.xlsx
+│   │   ├── medio_15Hz_1.xlsx
 │   │   ├── ...
 │   └── sinteticos/
-│       ├── sint\_medio\_15Hz\_1.csv
+│       ├── sint_medio_15Hz_1.csv
 │       ├── ...
 ├── estatisticas/
-│   └── estatisticas\_reais\_com\_ar.xlsx
+│   └── estatisticas_reais_com_ar.xlsx
 ├── resultados_mecanicos/
-│   └── resultados\_mecanicos\_dados\_reais.xlsx
-│   └── resultados\_mecanicos\_sinteticos.xlsx
+│   └── resultados_mecanicos_dados_reais.xlsx
+│   └── resultados_mecanicos_sinteticos.xlsx
 ├── scripts/
-│   ├── extrair\_estatisticas.py
-│   ├── gerar\_dados\_sinteticos.py
-│   ├── analisar\_acf\_rmse.py
+│   ├── extrair_estatisticas.py
+│   ├── gerar_dados_sinteticos.py
+│   ├── analisar_acf_rmse.py
 ├── graficos/
-│   ├── comparacao\_acf\_real\_sintetico.png
-│   └── distribuicoes\_estatisticas.png
+│   ├── comparacao_acf_real_sintetico.png
+│   └── distribuicoes_estatisticas.png
 ├── tese/
-│   └── tese\_latex/
+│   └── tese_latex/
 │       ├── main.tex
 │       └── ...
 ├── README.md
