@@ -16,6 +16,8 @@ Este repositório contém os arquivos utilizados no desenvolvimento da tese de m
 ├── resultados_mecanicos/
 │   └── resultados_mecanicos_dados_reais.xlsx
 │   └── resultados_mecanicos_sinteticos.xlsx
+├── Laboratório/
+│   └── Teste_de_ramos_em_laboratório.xlsx
 ├── scripts/
 │   ├── extrair_estatisticas.py
 │   ├── gerar_dados_sinteticos.py
